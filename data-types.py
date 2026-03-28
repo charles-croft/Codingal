@@ -1,0 +1,10 @@
+a=1
+print(type(float(a)))
+b=1.5
+print(type(str(b)))
+c=True
+print(type(str(c)))
+d="6"
+print(type(int(d)))
+e="True"
+print(type(bool(e)))

@@ -1,0 +1,17 @@
+list = ["pizza",30,2.6,True]
+print(list[0])
+print(len(list))
+print(list[0:3])
+list.append("pizza2")
+print(list)
+list.remove("pizza2")
+print(list)
+list.pop(-1)
+print(list)
+numbers = [2, 6.1, 1094, 2]
+numbers.sort()
+print(numbers)
+numbers.reverse()
+print(numbers)
+numbers.clear()
+print(numbers)

@@ -1,0 +1,8 @@
+print(1+1)
+print(2-1)
+print(2*2)
+print(12/4)
+print(50/2)
+print(53//2)
+print(53%2)
+print(1000**1000)
