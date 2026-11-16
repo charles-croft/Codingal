@@ -1,0 +1,12 @@
+# Ignore everything by default
+*
+
+# Un-ignore all directories so Git can traverse subfolders
+!*/
+
+# Un-ignore .py and .md files
+!*.py
+!*.md
+
+# Optional: Keep the .gitignore file itself tracked
+!.gitignore
